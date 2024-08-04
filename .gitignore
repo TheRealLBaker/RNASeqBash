@@ -1,0 +1,26 @@
+# R specific
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Bash specific
+*.log
+*.tmp
+
+# General
+.DS_Store
+*.swp
+*.bak
+*.tmp
+*.old
+*.pdf
+
+# Ignore data directories if necessary
+raw_data/
+processed_data/
+outputs/
